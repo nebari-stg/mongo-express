@@ -101,6 +101,9 @@
       "optional": true
     }
   },
+  "resolutions": {
+    "picomatch@^4.0.3": "4.0.4"
+  },
   "engines": {
     "node": ">=18.18"
   },
