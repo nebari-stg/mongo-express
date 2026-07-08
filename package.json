@@ -118,6 +118,9 @@
     "prepublish": "cross-env NODE_ENV=production webpack"
   },
   "exports": "./lib/middleware.js",
+  "resolutions": {
+    "serialize-javascript": "^7.0.5"
+  },
   "browserslist": "defaults",
   "files": [
     "app.js",
