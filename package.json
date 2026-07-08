@@ -125,5 +125,8 @@
     "lib",
     "public",
     "webpack.config.js"
-  ]
+  ],
+  "resolutions": {
+    "picomatch": "4.0.4"
+  }
 }
