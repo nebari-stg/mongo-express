@@ -93,6 +93,10 @@
     "webpack": "^5.106.2",
     "webpack-cli": "^6.0.1"
   },
+  "resolutions": {
+    "js-yaml@^4.1.0": "4.3.0",
+    "js-yaml@^4.1.1": "4.3.0"
+  },
   "peerDependencies": {
     "express-openid-connect": "*"
   },
