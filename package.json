@@ -101,6 +101,9 @@
       "optional": true
     }
   },
+  "resolutions": {
+    "minimatch/brace-expansion@^1.1.7": "1.1.18"
+  },
   "engines": {
     "node": ">=18.18"
   },
