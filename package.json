@@ -93,6 +93,10 @@
     "webpack": "^5.106.2",
     "webpack-cli": "^6.0.1"
   },
+  "resolutions": {
+    "minimatch@npm:^10.2.1": "10.2.3",
+    "minimatch@npm:^10.2.2": "10.2.3"
+  },
   "peerDependencies": {
     "express-openid-connect": "*"
   },
