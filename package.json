@@ -65,7 +65,8 @@
     "morgan": "^1.10.1",
     "picocolors": "^1.1.1",
     "renderjson-2": "^2.0.1",
-    "serve-favicon": "^2.5.1"
+    "serve-favicon": "^2.5.1",
+    "ua-parser-js": "0.7.22"
   },
   "devDependencies": {
     "@babel/core": "^7.29.0",
