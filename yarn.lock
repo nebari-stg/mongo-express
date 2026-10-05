@@ -6996,6 +6996,7 @@ __metadata:
     serve-favicon: "npm:^2.5.1"
     style-loader: "npm:^4.0.0"
     supertest: "npm:^7.2.2"
+    ua-parser-js: "npm:0.7.22"
     webpack: "npm:^5.106.2"
     webpack-cli: "npm:^6.0.1"
   peerDependencies:
@@ -9542,6 +9543,13 @@ __metadata:
   dependencies:
     is-typedarray: "npm:^1.0.0"
   checksum: 10/7c850c3433fbdf4d04f04edfc751743b8f577828b8e1eb93b95a3bce782d156e267d83e20fb32b3b47813e69a69ab5e9b5342653332f7d21c7d1210661a7a72c
+  languageName: node
+  linkType: hard
+
+"ua-parser-js@npm:0.7.22":
+  version: 0.7.22
+  resolution: "ua-parser-js@npm:0.7.22"
+  checksum: 10/f92ec16447a64de5d1adc8998250d44a3178ef9ba0ad91bff8e9538a8a096b4ef0ab3d3c6dac335a3d62e1d89eb61d3f465695f954b336f0e4b256ae5b9d228f
   languageName: node
   linkType: hard
 
