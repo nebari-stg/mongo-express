@@ -68,7 +68,7 @@
     "renderjson-2": "^2.0.1",
     "serve-favicon": "^2.5.1",
     "ua-parser-js": "0.7.22",
-    "ws": "7.4.6"
+    "ws": "7.5.11"
   },
   "devDependencies": {
     "@babel/core": "^7.29.0",

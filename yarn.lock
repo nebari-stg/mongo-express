@@ -7075,7 +7075,7 @@ __metadata:
     ua-parser-js: "npm:0.7.22"
     webpack: "npm:^5.106.2"
     webpack-cli: "npm:^6.0.1"
-    ws: "npm:7.4.6"
+    ws: "npm:7.5.11"
   peerDependencies:
     express-openid-connect: "*"
   peerDependenciesMeta:
@@ -10203,9 +10203,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ws@npm:7.4.6":
-  version: 7.4.6
-  resolution: "ws@npm:7.4.6"
+"ws@npm:7.5.11":
+  version: 7.5.11
+  resolution: "ws@npm:7.5.11"
   peerDependencies:
     bufferutil: ^4.0.1
     utf-8-validate: ^5.0.2
@@ -10214,7 +10214,7 @@ __metadata:
       optional: true
     utf-8-validate:
       optional: true
-  checksum: 10/150e3f917b7cde568d833a5ea6ccc4132e59c38d04218afcf2b6c7b845752bd011a9e0dc1303c8694d3c402a0bdec5893661a390b71ff88f0fc81a4e4e66b09c
+  checksum: 10/486141e4a01bb75883f9ba39317309c2427e24db1cb75e340fad6e5886b65c03d994a34209f0e4ba06dd6cb9ec95dd1b6a09c52c05eed9a34d6376f4fbbf617c
   languageName: node
   linkType: hard
 
