@@ -9,6 +9,7 @@ import { program } from 'commander';
 import csrf from 'csurf';
 import express from 'express';
 import middleware from './lib/middleware.js';
+import { attachLiveStatus } from './lib/liveStatus.js';
 import { deepmerge } from './lib/utils.js';
 import configDefault from './config.default.js';
 
@@ -58,6 +59,8 @@ async function bootstrap(config) {
 
   const addressString = (config.site.sslEnabled ? 'https://' : 'http://')
     + (config.site.host || '0.0.0.0') + ':' + (config.site.port || defaultPort);
+
+  attachLiveStatus(server);
 
   server.listen(config.site.port, config.site.host, function () {
     if (config.options.console) {
