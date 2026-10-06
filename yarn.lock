@@ -5602,6 +5602,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"immutable@npm:4.3.5":
+  version: 4.3.5
+  resolution: "immutable@npm:4.3.5"
+  checksum: 10/dbc1b8c808b9aa18bfce2e0c7bc23714a47267bc311f082145cc9220b2005e9b9cd2ae78330f164a19266a2b0f78846c60f4f74893853ac16fd68b5ae57092d2
+  languageName: node
+  linkType: hard
+
 "import-fresh@npm:^3.2.1":
   version: 3.3.1
   resolution: "import-fresh@npm:3.3.1"
@@ -6450,6 +6457,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"linkify-it@npm:3.0.3":
+  version: 3.0.3
+  resolution: "linkify-it@npm:3.0.3"
+  dependencies:
+    uc.micro: "npm:^1.0.1"
+  checksum: 10/1ed466b02ad361bb5e5b94a81232fc126890751038bf3e61f648f4ccb01e5e096bba66c3eff3d21ed5e3da738de0dc29783afedf0255733669889aa09d49e47e
+  languageName: node
+  linkType: hard
+
 "listr2@npm:^3.8.3":
   version: 3.14.0
   resolution: "listr2@npm:3.14.0"
@@ -7054,8 +7070,10 @@ __metadata:
     handlebars: "npm:4.7.9"
     html-entities: "npm:^2.6.0"
     husky: "npm:^9.1.7"
+    immutable: "npm:4.3.5"
     jquery: "npm:^3.7.1"
     jsonwebtoken: "npm:8.5.1"
+    linkify-it: "npm:3.0.3"
     marked: "npm:4.0.10"
     memorystore: "npm:^1.6.7"
     method-override: "npm:^3.0.0"
@@ -9705,6 +9723,13 @@ __metadata:
   version: 0.7.22
   resolution: "ua-parser-js@npm:0.7.22"
   checksum: 10/f92ec16447a64de5d1adc8998250d44a3178ef9ba0ad91bff8e9538a8a096b4ef0ab3d3c6dac335a3d62e1d89eb61d3f465695f954b336f0e4b256ae5b9d228f
+  languageName: node
+  linkType: hard
+
+"uc.micro@npm:^1.0.1":
+  version: 1.0.6
+  resolution: "uc.micro@npm:1.0.6"
+  checksum: 10/6898bb556319a38e9cf175e3628689347bd26fec15fc6b29fa38e0045af63075ff3fea4cf1fdba9db46c9f0cbf07f2348cd8844889dd31ebd288c29fe0d27e7a
   languageName: node
   linkType: hard
 
