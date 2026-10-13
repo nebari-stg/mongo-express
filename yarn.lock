@@ -6859,12 +6859,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"marked@npm:4.0.10":
-  version: 4.0.10
-  resolution: "marked@npm:4.0.10"
+"marked@npm:0.7.0":
+  version: 0.7.0
+  resolution: "marked@npm:0.7.0"
   bin:
-    marked: bin/marked.js
-  checksum: 10/764e49b246ccad0afe2eedf3c5074aafa7abd445c93cb13209b39bacdf9753ae7c333f35c7fafbcb68b20639711c34d74eb06b922ac71b82e440e72ce48d4dc0
+    marked: ./bin/marked
+  checksum: 10/5601bbd8b33187d00f4d2b981139e3b2aaa9adccf67f3f155607b74711f4c62a56afa366d583df7efc71108e7b69801692c7856536966317b2f09483e2c027dc
   languageName: node
   linkType: hard
 
@@ -7221,7 +7221,7 @@ __metadata:
     jquery: "npm:3.4.1"
     jsonwebtoken: "npm:8.5.1"
     linkify-it: "npm:5.0.1"
-    marked: "npm:4.0.10"
+    marked: "npm:0.7.0"
     memorystore: "npm:^1.6.7"
     method-override: "npm:^3.0.0"
     mocha: "npm:^11.7.5"
