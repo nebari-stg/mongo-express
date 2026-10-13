@@ -103,6 +103,9 @@
     "webpack": "^5.106.2",
     "webpack-cli": "^6.0.1"
   },
+  "resolutions": {
+    "joi": "17.13.8"
+  },
   "peerDependencies": {
     "express-openid-connect": "*"
   },
